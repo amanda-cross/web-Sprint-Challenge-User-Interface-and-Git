@@ -24,8 +24,27 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
+header{
+    display:flex;
+    width:800px;
+    justify-content: flex-start;
+    margin: 0 auto;
+}
+
+img.logo{
+    
+}
+
+div.headerimg{
+    display:flex;
+    width:800px;
+    margin: 0 auto;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
 article, aside, details, figcaption, figure, 
-footer, header, hgroup, menu, nav, section {
+footer,  hgroup, menu,  section {
 	display: block;
 }
 body {
