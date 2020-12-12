@@ -267,3 +267,43 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+
+div.abouthead{
+    padding-bottom:10px;
+    border-bottom: dotted black 1px;
+    margin-bottom:10px;
+}
+
+div.workplace{
+    padding-bottom:20px;
+    border-bottom: dotted black 1px;
+    margin-bottom:20px;
+    display:flex;
+    justify-content:space-evenly;
+    flex:wrap;
+}
+div.together{
+    padding-bottom:10px;
+    
+    margin-bottom:10px;
+}
+
+a.learnmorebtn {
+    color:black;
+    text-decoration:none;
+    padding:5px;
+    padding-right: 10px;
+    padding-right: 10px;
+text-align:center;
+    border: 1px solid black;
+    border-radius:10px;
+}
+
+p {
+    padding-bottom:30px;
+}
+
+h2{
+    padding-top:10px;
+}
